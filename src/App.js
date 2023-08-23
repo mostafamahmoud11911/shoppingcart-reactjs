@@ -3,10 +3,10 @@ import Root from "./components/Root";
 import Home from "./components/Home";
 import Store from "./components/Store";
 import About from "./components/About";
-import { RouterProvider, createBrowserRouter } from "react-router-dom";
+import { RouterProvider, createHashRouter } from "react-router-dom";
 import ShoppingCartProvider from "./context/CartContext";
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: "/",
     element: (
