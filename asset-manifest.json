@@ -1,13 +1,17 @@
 {
   "files": {
     "main.css": "/shoppingcart-reactjs/static/css/main.99e4cf39.css",
-    "main.js": "/shoppingcart-reactjs/static/js/main.1470be9f.js",
+    "main.js": "/shoppingcart-reactjs/static/js/main.4509c036.js",
+    "static/media/banana.jpg": "/shoppingcart-reactjs/static/media/banana.3db2e967a556ac8a331d.jpg",
+    "static/media/book.jpg": "/shoppingcart-reactjs/static/media/book.e0825770481377063726.jpg",
+    "static/media/car.jpg": "/shoppingcart-reactjs/static/media/car.2944e057d59f4304c3dd.jpg",
+    "static/media/computer.jpg": "/shoppingcart-reactjs/static/media/computer.3f9014eff5afc1a73aef.jpg",
     "index.html": "/shoppingcart-reactjs/index.html",
     "main.99e4cf39.css.map": "/shoppingcart-reactjs/static/css/main.99e4cf39.css.map",
-    "main.1470be9f.js.map": "/shoppingcart-reactjs/static/js/main.1470be9f.js.map"
+    "main.4509c036.js.map": "/shoppingcart-reactjs/static/js/main.4509c036.js.map"
   },
   "entrypoints": [
     "static/css/main.99e4cf39.css",
-    "static/js/main.1470be9f.js"
+    "static/js/main.4509c036.js"
   ]
 }
