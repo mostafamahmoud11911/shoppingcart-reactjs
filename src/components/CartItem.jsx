@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-import data from "../data/items.json";
+import data from "../data/items";
 import { Button, Stack } from "react-bootstrap";
 import { formatCurrency } from "./FormatCurrency";
 import { ShoppingCartContext } from "../context/CartContext";

@@ -3,7 +3,7 @@ import { Offcanvas } from "react-bootstrap";
 import { ShoppingCartContext } from "../context/CartContext";
 import CartItem from "./CartItem";
 import { formatCurrency } from "./FormatCurrency";
-import data from "../data/items.json";
+import data from "../data/items";
 
 export default function ShoppingCart() {
   const { cartItems, handleClose, open } = useContext(ShoppingCartContext);
